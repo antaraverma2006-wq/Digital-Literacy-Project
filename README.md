@@ -1,6 +1,7 @@
 # Digital Literacy Project
 
 Name: Antara Verma  
+Registration number: 25BCY10232
 Course: CSE0001 – Digital Literacy  
 
 ## Project Overview
